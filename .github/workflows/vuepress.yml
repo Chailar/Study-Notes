@@ -49,7 +49,7 @@ jobs:
           # 目标分支
           target_branch: pages
           # 构建产物来源目录
-          build_dir: ./dist
+          build_dir: ./docs/.vuepress/dist
           # 关闭 Jekyll in GitHub
           jekyll: false
           # 展示详细日志
