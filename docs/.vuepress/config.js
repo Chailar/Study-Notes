@@ -1,5 +1,6 @@
 module.exports = {
   title: 'Chailar\'s blog',
+   base:'/Study-Notes/',
   description: '个人笔记博客',
   head: [
     ['link', { rel: 'icon', href: 'img/logo.png' }],
