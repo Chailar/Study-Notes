@@ -12,9 +12,9 @@ features:
   - title: 后端
     imgUrl: /img/mycf.png
     link: /note/java/javaEE
-  - title: 技术
+  - title: 人工智能
     imgUrl: /img/other.png
 
-footer: MIT Licensed | Copyright © 2021-present Chailar You
+footer: MIT Licensed | Copyright © 2021-present Chailar
 ---
 

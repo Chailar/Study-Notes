@@ -39,9 +39,7 @@ module.exports = {
       ]
     }, {
       text: 'Java', items: [{
-        text: 'Java容器', items: [{
-          text: 'JavaWeb', link: '/note/java/javaEE/'
-        }]
+          text: 'JavaWeb', link: '/note/java/javaWeb/'
       }]
     }, {
       text: '工具', link: '/note/tools/', items: [{
